@@ -1,0 +1,29 @@
+.headertext{
+    text-align: center;
+    color: white;
+    
+}
+#photo{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo-avatar{
+    margin: 50px;
+    border-color: rgb(158, 134, 90);
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 100px;
+    
+}
+.hobbies{
+    align-items: center;
+}
+.experience-table{
+    width: fit-content;
+    border: solid gray;
+    border-width: 5px;
+    
+}
+.statement{
+    font-family:;
+}
